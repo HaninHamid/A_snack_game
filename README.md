@@ -1,1 +1,1 @@
-# A_snack_game
+# A_simple_snack_game
